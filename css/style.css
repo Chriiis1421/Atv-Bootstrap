@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: red;
+    color: white;
+}
+
+.container-fluid {
+    color: white;
+    background-color: black;
+}
+
+.card {
+    background-color: rgb(12, 11, 11);
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
